@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "category": "Health",
+    "title": "Healthy Lifestyle",
+    "description": "Discover tips and tricks for a healthier life with our comprehensive guide. Explore nutrition, exercise, and mindfulness to improve your well-being. While SDG4 may be the ‘home’ of education, quality education plays a vital role in achieving many of the other 16 sustainable development goals. Education is a human right, enabling healthy, prosperous lives and peaceful communities, alleviating poverty and promoting gender equality. Early and consistent access to and participation in quality learning positively changes the futures of the poorest and most marginalised children, families,  ",
+    "color": {
+      "card_color": "#0052FF26",
+      "category_background_color": "#0052FF33",
+      "text_color": "#0052FF"
+    },
+    "price": 500,
+    "image_url": "https://i.ibb.co/XZxB4n2/h1.png"
+  },
+  {
+    "id": 2,
+    "category": "Clothing",
+    "title": "Fashion Trends",
+    "description": "Stay stylish with the latest fashion trends. While SDG4 may be the ‘home’ of education, quality education plays a vital role in achieving many of the other 16 sustainable development goals. Education is a human right, enabling healthy, prosperous lives and peaceful communities, alleviating poverty and promoting gender equality. Early and consistent access to and participation in quality learning positively changes the futures of the poorest and most marginalised children, families,  Explore our collection for the perfect look. Price: $49.99",
+    "color": {
+      "card_color": "#79C23F26",
+      "category_background_color": "#79C23F33",
+      "text_color": "#79C23F"
+    },
+    "price": 2300,
+    "image_url": "https://i.ibb.co/TgDFD67/e1.png"
+  },
+  {
+    "id": 3,
+    "category": "Food",
+    "title": "Farm Fresh Produce",
+    "description": "Enjoy farm-fresh produce delivered While SDG4 may be the ‘home’ of education, quality education plays a vital role in achieving many of the other 16 sustainable development goals. Education is a human right, enabling healthy, prosperous lives and peaceful communities, alleviating poverty and promoting gender equality. Early and consistent access to and participation in quality learning positively changes the futures of the poorest and most marginalised children, families,  to your doorstep. Locally sourced fruits and vegetables. Price: $19.99",
+    "color": {
+      "card_color": "#F8714726",
+      "category_background_color": "#F8714733",
+      "text_color": "#F87147"
+    },
+    "price": 1220,
+    "image_url": "https://i.ibb.co/47Bbktr/c1.png"
+  },
+  {
+    "id": 4,
+    "category": "Food",
+    "title": "Healthy Smoothies",
+    "description": "Boost your health with our nutritious While SDG4 may be the ‘home’ of education, quality education plays a vital role in achieving many of the other 16 sustainable development goals. Education is a human right, enabling healthy, prosperous lives and peaceful communities, alleviating poverty and promoting gender equality. Early and consistent access to and participation in quality learning positively changes the futures of the poorest and most marginalised children, families,  smoothies. Perfect for a quick and tasty energy boost. Price: $14.99",
+    "color": {
+      "card_color": "#F8714726",
+      "category_background_color": "#F8714733",
+      "text_color": "#F87147"
+    },
+    "price": 1140,
+    "image_url": "https://i.ibb.co/47Bbktr/c1.png"
+  },
+  {
+    "id": 5,
+    "category": "Education",
+    "title": "Programming Course",
+    "description": "Master coding skills from scratch While SDG4 may be the ‘home’ of education, quality education plays a vital role in achieving many of the other 16 sustainable development goals. Education is a human right, enabling healthy, prosperous lives and peaceful communities, alleviating poverty and promoting gender equality. Early and consistent access to and participation in quality learning positively changes the futures of the poorest and most marginalised children, families,  with our comprehensive programming course. Unlock your potential in the tech world. Price: $79.99",
+    "color": {
+      "card_color": "#FF444A26",
+      "category_background_color": "#FF444A33",
+      "text_color": "#FF444A"
+    },
+    "price": 5200,
+    "image_url": "https://i.ibb.co/TgDFD67/e1.png"
+  },
+  {
+    "id": 6,
+    "category": "Clothing",
+    "title": "Athletic Apparel",
+    "description": "Elevate your workout game with our While SDG4 may be the ‘home’ of education, quality education plays a vital role in achieving many of the other 16 sustainable development goals. Education is a human right, enabling healthy, prosperous lives and peaceful communities, alleviating poverty and promoting gender equality. Early and consistent access to and participation in quality learning positively changes the futures of the poorest and most marginalised children, families,  athletic apparel. Comfortable and stylish activewear. Price: $29.99",
+    "color": {
+      "card_color": "#79C23F26",
+      "category_background_color": "#79C23F33",
+      "text_color": "#79C23F"
+    },
+    "price": 1200,
+    "image_url": "https://i.ibb.co/47Bbktr/c1.png"
+  },
+  {
+    "id": 7,
+    "category": "Health",
+    "title": "Fitness Tracker",
+    "description": "Stay on top of your fitness goals withWhile SDG4 may be the ‘home’ of education, quality education plays a vital role in achieving many of the other 16 sustainable development goals. Education is a human right, enabling healthy, prosperous lives and peaceful communities, alleviating poverty and promoting gender equality. Early and consistent access to and participation in quality learning positively changes the futures of the poorest and most marginalised children, families,  our advanced fitness tracker. Monitor your activities, heart rate, and sleep patterns. Price: $49.99",
+    "color": {
+      "card_color": "#0052FF26",
+      "category_background_color": "#0052FF33",
+      "text_color": "#0052FF"
+    },
+    "price": 3100,
+    "image_url": "https://i.ibb.co/XZxB4n2/h1.png"
+  },
+  {
+    "id": 8,
+    "category": "Clothing",
+    "title": "Summer Collection",
+    "description": "Beat the heat in style with our summer cWhile SDG4 may be the ‘home’ of education, quality education plays a vital role in achieving many of the other 16 sustainable development goals. Education is a human right, enabling healthy, prosperous lives and peaceful communities, alleviating poverty and promoting gender equality. Early and consistent access to and participation in quality learning positively changes the futures of the poorest and most marginalised children, families, ollection. Perfect outfits for every occasion. Price: $59.99",
+    "color": {
+      "card_color": "#79C23F26",
+      "category_background_color": "#79C23F33",
+      "text_color": "#79C23F"
+    },
+    "price": 2500,
+    "image_url": "https://i.ibb.co/TgDFD67/e1.png"
+  },
+  {
+    "id": 9,
+    "category": "Education",
+    "title": "Language Learning App",
+    "description": "Learn a new language effortlessly witWhile SDG4 may be the ‘home’ of education, quality education plays a vital role in achieving many of the other 16 sustainable development goals. Education is a human right, enabling healthy, prosperous lives and peaceful communities, alleviating poverty and promoting gender equality. Early and consistent access to and participation in quality learning positively changes the futures of the poorest and most marginalised children, families, h our language learning app. Fun and effective lessons for all ages. ",
+    "color": {
+      "card_color": "#FF444A26",
+      "category_background_color": "#FF444A33",
+      "text_color": "#FF444A"
+    },
+    "price": 1210,
+    "image_url": "https://i.ibb.co/TgDFD67/e1.png"
+  },
+  {
+    "id": 10,
+    "category": "Food",
+    "title": "Delicious Cuisine",
+    "description": "Savor the flavors of our delicious cuWhile SDG4 may be the ‘home’ of education, quality education plays a vital role in achieving many of the other 16 sustainable development goals. Education is a human right, enabling healthy, prosperous lives and peaceful communities, alleviating poverty and promoting gender equality. Early and consistent access to and participation in quality learning positively changes the futures of the poorest and most marginalised children, families, isine. Explore a variety of mouthwatering recipes. Price: $9.99",
+    "color": {
+      "card_color": "#F8714726",
+      "category_background_color": "#F8714733",
+      "text_color": "#F87147"
+    },
+    "price": 1200,
+    "image_url": "https://i.ibb.co/47Bbktr/c1.png"
+  },
+  {
+    "id": 11,
+    "category": "Education",
+    "title": "Online Learning",
+    "description": "Enhance your knowledge with online While SDG4 may be the ‘home’ of education, quality education plays a vital role in achieving many of the other 16 sustainable development goals. Education is a human right, enabling healthy, prosperous lives and peaceful communities, alleviating poverty and promoting gender equality. Early and consistent access to and participation in quality learning positively changes the futures of the poorest and most marginalised children, families, courses. Access a wide range of subjects from programming to language learning. Price: $19.99",
+    "color": {
+      "card_color": "#FF444A26",
+      "category_background_color": "#FF444A33",
+      "text_color": "#FF444A"
+    },
+    "price": 200,
+    "image_url": "https://i.ibb.co/XZxB4n2/h1.png"
+  },
+  {
+    "id": 12,
+    "category": "Health",
+    "title": "Nutrition Guide",
+    "description": "Achieve a balanced diet with ourWhile SDG4 may be the ‘home’ of education, quality education plays a vital role in achieving many of the other 16 sustainable development goals. Education is a human right, enabling healthy, prosperous lives and peaceful communities, alleviating poverty and promoting gender equality. Early and consistent access to and participation in quality learning positively changes the futures of the poorest and most marginalised children, families,  nutrition guide. Plan healthy meals, track your macros, and boost your overall health. Price: $19.99",
+    "color": {
+      "card_color": "#0052FF26",
+      "category_background_color": "#0052FF33",
+      "text_color": "#0052FF"
+    },
+    "price": 1300,
+    "image_url": "https://i.ibb.co/XZxB4n2/h1.png"
+  }
+]
